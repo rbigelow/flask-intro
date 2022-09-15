@@ -1,13 +1,13 @@
 # Setup Instructions
 
-This code sample demonstrates how setup a simple Flask appliation using application virtualization.
+This code sample demonstrates how setup a simple Flask application  using application virtualization.
 
 ## 1) Install Python and a code editor.
 
 Follow the directions for your operating system here
 https://www.python.org/ 
 
-Personally I reccomend Visual Studio Code as a editor but there are also many others.
+Personally I recommend  Visual Studio Code as a editor but there are also many others.
 https://code.visualstudio.com/
 
 
